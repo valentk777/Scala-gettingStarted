@@ -1,4 +1,6 @@
-object variables {
+package Learning
+
+object Variables {
   def main(args: Array[String]) {
     val i = 4
     val d = 4.0
@@ -11,5 +13,7 @@ object variables {
     println(i + ni)
     println(d + nd)
     println(s + ns)
+
+    //    var vs val
   }
 }

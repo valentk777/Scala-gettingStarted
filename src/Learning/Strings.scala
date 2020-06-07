@@ -1,3 +1,5 @@
+package Learning
+
 object Strings {
   def main(args: Array[String]) {
     val stdin = scala.io.StdIn
